@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+
+.header{
+    display: flex;
+    justify-content: space-between; 
+    margin: auto;
+    padding: auto   ;
+    border: 1px solid red;
+    background: black;
+}
+
+.nav-items > ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-items >ul > li{
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    font-size: 18px;
+    
+}
+.logo-img{
+    padding: 10px;
+    margin: 1px;
+    width: 40%;
+}
+
+.card{
+    width:255px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px; 
+    background-color: rgb(240, 239, 239);
+
+}
+.card >img{
+    width: 100%;
+}
+
+.restro-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card{
+    display: flex;
+    width: 255px;
+    background: rgb(240, 236, 236);
+    height: 358px;
+    margin : 20px
+}
+.footer{
+    position: fixed;
+   bottom: 0;
+   width: 100%;
+   height: 60px; 
+   background: black;
+   margin-right: 0px;
+}
+
+.Link-style {
+ text-decoration: none;
+ color: black;
+}
+
+
+.UL{
+    text-decoration: none;
+ color:white;
+
+}
+
+.footer>h3{
+
+    text-align: center;
+    color: white;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.item-title{
+    font-weight: bold;
+}
+
+.menu-img-items{
+    height: 40%;
+    width: 40%;
+} */
